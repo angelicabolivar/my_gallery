@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.profile {
+    text-align: center;
+}
+.profile_img {
+    max-width: 102px;
+    margin: 30px 0px 0px 0px;
+    border-radius: 16px;
+    text-align: center;
+}
+.profile_title {
+    font-size: 14px;
+    font-weight: 600;
+    color:#4E5150;
+    
+    
+}
+.profile_subtitle {
+    font-size: 10px;
+    font-weight: 600;
+    color: #A9A9A9;
+    padding-top: 5px;
+}
+.metrics_container {
+   background-color: #E5E5E5;
+   border-radius: 12px;
+   
+   
+}
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 72px);
+    grid-template-rows: repeat(1, 52px);
+    gap: 12px;
+    margin-top: 12px;
+}
+.metrics_num {
+    font-size: 12px;
+    color: #4E5150;
+    text-align: center;
+    padding-top: 10px;
+}
+.metrics_title {
+    font-size: 12px;
+    color: #BDBDBD;
+    text-align: center;
+}
+.grid_container {
+    display: grid;
+    grid-template-columns: repeat(3, 110px);
+    grid-template-rows: repeat(3, 110px);
+    margin-top: 40px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+
+}
+.grid_img {
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+    
+}
