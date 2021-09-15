@@ -5,9 +5,10 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
+    margin:0 12px;
 }
 .profile {
-    text-align: center;
+    padding: 30px 120px 0px 100px;
 }
 .profile_img {
     max-width: 102px;
@@ -19,8 +20,6 @@ body {
     font-size: 14px;
     font-weight: 600;
     color:#4E5150;
-    
-    
 }
 .profile_subtitle {
     font-size: 10px;
@@ -40,6 +39,7 @@ body {
     grid-template-rows: repeat(1, 52px);
     gap: 12px;
     margin-top: 12px;
+    
 }
 .metrics_num {
     font-size: 12px;
@@ -54,17 +54,60 @@ body {
 }
 .grid_container {
     display: grid;
-    grid-template-columns: repeat(3, 110px);
-    grid-template-rows: repeat(3, 110px);
+    grid-template-columns: repeat(3, 90px);
+    grid-template-rows: repeat(3, 90px);
     margin-top: 40px;
-    padding-left: 12px;
-    padding-right: 12px;
-    
-
+    column-gap:6px;
+    row-gap:6px;
+    grid-template-areas:
+    "img_1 img_2 img_2"
+    "img_3 img_3 img_4"
+    "img_6 img_5 img_4" 
+    ;
 }
+.img_1 {
+    grid-area:img_1 ;
+}
+.img_2 {
+    grid-area: img_2;
+}
+.img_3 {
+    grid-area: img_3;
+}
+.img_4 {
+    grid-area: img_4;
+}
+.img_5 {
+    grid-area: img_5;
+}
+.img_6 {
+    grid-area: img_6;
+}
+
 .grid_img {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 12px;
-    
+}
+.img_2 {
+    width: 186px;
+}
+.img_3 {
+    width: 186px;
+}
+.img_4 {
+    height: 186px;
+}
+.footer {
+    text-align: center;
+    position: relative;
+    top:100px;
+   
+}
+.footer_title {
+    font-size: 14px;
+    color: #B9BDCF;
+}
+.footer_title span {
+    font-weight: 700;
 }
