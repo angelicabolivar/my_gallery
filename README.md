@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/angelicabolivar/my_gallery">
+    <a href="https://github.com/angelicabolivar/my_gallery" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://angelicabolivar.github.io/my_gallery/">
+    <a href="https://angelicabolivar.github.io/my_gallery/" target="_blank" >
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I" target="_blank">
       Challenge
     </a>
   </h3>
@@ -40,9 +40,9 @@
 
 
 
-
-- What was your experience?
 - What have you learned/improved?
+With this challenge I was able to practice css grid and improve my skills.
+
 
 
 ### Built With
