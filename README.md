@@ -3,20 +3,20 @@
 <h1 align="center">My Galery</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://github.com/angelicabolivar/my_gallery" target="_blank">
+    <a href="https://github.com/angelicabolivar/my_gallery">
       Demo
     </a>
     <span> | </span>
-    <a href="https://angelicabolivar.github.io/my_gallery/" target="_blank">
+    <a href="https://angelicabolivar.github.io/my_gallery/">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I" target="_blank">
+    <a  target="_blank" href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I" >
       Challenge
     </a>
   </h3>
