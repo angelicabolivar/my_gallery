@@ -94,7 +94,8 @@ body {
     width: 110px;
     height: 110px;
     border-radius: 12px;
-    /*box-shadow: 0 0 6px #C4C4C4;*/
+    box-shadow: 5px 5px 8px rgba(196, 196, 196, 0.9);
+    ;
 }
 .img_2 {
     width: 226px;
