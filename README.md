@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://github.com/angelicabolivar/my_gallery">
+    <a href="https://github.com/angelicabolivar/my_gallery">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://angelicabolivar.github.io/my_gallery/">
+    <a href="https://angelicabolivar.github.io/my_gallery/">
       Solution
     </a>
     <span> | </span>
@@ -34,9 +34,9 @@
 
 ## Overview
 
-![screenshot](../images/readme_mobile.png)
+![screenshot](./images/readme_mobile.png)
 
-![screenshot](../images/desktop.png)
+![screenshot](./images/desktop.png)
 
 
 
