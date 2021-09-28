@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://angelicabolivar.github.io/my_gallery/" target="_blank" >
+    <a href="https://angelicabolivar.github.io/my_gallery/" target="_blank">
       Solution
     </a>
     <span> | </span>
